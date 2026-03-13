@@ -14,6 +14,6 @@ print (nilai[1])
 
 output = 80
 ```
-
+Pada tugas ini, Array berfungsi sebagai 
 ### Screenshot hasil eksekusi 
 
