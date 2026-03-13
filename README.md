@@ -1,4 +1,8 @@
-# 01-Array
-Project Tugas Array
+# TUGAS ARRAY STRUKTUR DATA
 
-Buat sistem sederhana pengelolaan nilai mahasiswa menggunakan array.
+## Dewa Gede Agung Dwi Angga Suputra (2501010004/A)
+
+### :floppy_disk:Konsep Array
+
+
+
