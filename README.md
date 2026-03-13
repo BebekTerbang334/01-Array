@@ -1,5 +1,7 @@
 # TUGAS ARRAY STRUKTUR DATA
 
+## Dewa Gede Agung Dwi Angga Suputra (2501010004/Kelas A)
+
 ## Konsep Array :mag_right:
 
 Array adalah struktur data yang digunakan untuk menyimpan sekumpulan data dengan tipe yang sama dalam satu variabel. Data dalam array disimpan secara berurutan di dalam memori dan setiap elemen dapat diakses menggunakan indeks. Indeks biasanya dimulai dari angka 0, sehingga elemen pertama memiliki indeks 0, elemen kedua memiliki indeks 1, dan seterusnya.
