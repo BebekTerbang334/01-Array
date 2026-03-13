@@ -38,23 +38,30 @@ Pada contoh tersebut, semua nilai disimpan dalam satu variabel yaitu nilai.
 
 ### Input Nilai Mahasiswa
 Program melakukan proses pengulangan untuk memasukkan setiap nilai mahasiswa ke dalam array. Setiap data dimasukkan satu per satu sampai jumlah nilai yang dibutuhkan terpenuhi. Karena jumlah langkah bergantung pada banyaknya data yang dimasukkan, maka waktu yang dibutuhkan akan meningkat seiring bertambahnya jumlah mahasiswa.
+
 **Kompleksitas waktu: O(n)**
 
 ### Menentukan Nilai Tertinggi dan Nilai Terendah
 Untuk mendapatkan nilai maksimum dan minimum, program harus membandingkan seluruh nilai yang terdapat dalam array. Proses ini dilakukan dengan membaca setiap elemen hingga semua data diperiksa. Oleh karena itu, waktu eksekusi bergantung pada jumlah data yang ada.
+
 **Kompleksitas waktu: O(n)**
 
 ### Menghitung Rata-rata Nilai
 Rata-rata diperoleh dengan menjumlahkan seluruh nilai mahasiswa terlebih dahulu, kemudian hasil penjumlahan tersebut dibagi dengan jumlah data yang tersedia. Karena semua nilai harus diproses untuk mendapatkan totalnya, maka proses ini memerlukan pemeriksaan terhadap seluruh elemen array.
+
 **Kompleksitas waktu: O(n)**
 
 ### Menghitung Jumlah Mahasiswa yang Lulus
 Program melakukan pengecekan pada setiap nilai untuk menentukan apakah nilainya memenuhi syarat kelulusan, yaitu minimal 60. Jika nilai memenuhi kriteria, maka jumlah mahasiswa yang lulus akan bertambah. Proses ini harus dilakukan untuk semua data nilai yang ada.
+
 **Kompleksitas waktu: O(n)**
 
 ### Menampilkan Grafik Data Nilai
 Grafik dibuat dengan memanfaatkan data yang telah diperoleh dari proses sebelumnya, seperti nilai tertinggi, nilai terendah, serta jumlah mahasiswa yang lulus dan tidak lulus. Proses pembuatan grafik bergantung pada data yang tersedia sehingga waktu yang diperlukan tetap berkaitan dengan jumlah data yang diproses sebelumnya.
+
 **Kompleksitas waktu: O(n)**
+
+> Sebagian besar operasi dalam tugas ini memiliki kompleksitas waktu O(n) karena setiap proses perlu memeriksa seluruh data nilai mahasiswa yang tersimpan dalam array. Proses seperti memasukkan nilai, mencari nilai tertinggi dan terendah, menghitung rata-rata, serta menentukan jumlah mahasiswa yang lulus dilakukan dengan cara membaca setiap elemen satu per satu. Oleh karena itu, semakin banyak data mahasiswa yang diproses, maka waktu yang dibutuhkan oleh program juga akan meningkat secara linear.
 
 ## Refleksi Pembelajaran :mortar_board:
 
