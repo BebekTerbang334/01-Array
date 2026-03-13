@@ -4,5 +4,16 @@
 
 ### :floppy_disk:Konsep Array
 
+Array adalah struktur data yang digunakan untuk menyimpan sekumpulan data yang memiliki tipe yang sama dalam satu variabel. Data pada array disimpan secara berurutan dan setiap elemen dapat diakses menggunakan indeks (index).
 
+Contoh penggunaan Array dalam pemrograman python
+
+```
+nilai = [90, 80, 70]
+print (nilai[1])
+
+output = 80
+```
+
+### Screenshot hasil eksekusi 
 
