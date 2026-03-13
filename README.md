@@ -61,5 +61,3 @@ Grafik dibuat dengan memanfaatkan data yang telah diperoleh dari proses sebelumn
 Melalui pembuatan program ini, saya dapat memahami bagaimana konsep array digunakan untuk menyimpan dan mengolah sekumpulan data secara efisien. Selain itu, saya juga belajar bagaimana melakukan berbagai operasi dasar pada array seperti mencari nilai maksimum dan minimum, menghitung rata-rata, serta melakukan pengecekan kondisi pada setiap elemen data.
 
 Saya juga memahami pentingnya analisis kompleksitas algoritma untuk mengetahui seberapa efisien suatu program dalam memproses data. Dengan mengetahui kompleksitas waktu, kita dapat memperkirakan performa program ketika jumlah data semakin besar.
-
-Selain itu, penggunaan grafik membantu dalam memvisualisasikan data sehingga hasil analisis menjadi lebih mudah dipahami.
