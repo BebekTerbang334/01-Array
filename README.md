@@ -15,15 +15,15 @@ Pada contoh tersebut, semua nilai disimpan dalam satu variabel yaitu nilai.
 
 ## Screenshot hasil eksekusi :floppy_disk:
 
-![image alt] (https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234117.png)
+![image alt](https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234117.png)
 
-![image alt] (https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234127.png)
+![image alt](https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234127.png)
 
-![image alt] (https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234136.png)
+![image alt](https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234136.png)
 
-![image alt] (https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234146.png)
+![image alt](https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234146.png)
 
-![image alt] (https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234152.png)
+![image alt](https://github.com/BebekTerbang334/01-Array/blob/85b66a12e80ee38031bed6f383d1b3abe12f7b09/Screenshot%202026-03-13%20234152.png)
 
 ## Analisis Kompleksitas :bookmark_tabs:
 
